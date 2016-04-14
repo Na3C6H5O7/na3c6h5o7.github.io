@@ -25,7 +25,7 @@ prose:
   rooturl: '_posts'
   siteurl: 'http://na3c6h5o7.github.io/'
   relativeLinks: ''
-  media: 'media'
+  media: 'img'
   metadata:
     _posts:
       - name: "published"
